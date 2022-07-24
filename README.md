@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niranjannb
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Django
 
 <!---
 niranjannb/niranjannb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
